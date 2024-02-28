@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="photo_content_desc">Art image</string>
+
+    <string name="photo1_label">Это я смотрю на тучу</string>
+    <string name="photo2_label">Это я смотрю на дом</string>
+    <string name="photo3_label">Это я салют устроил</string>
+    <string name="photo4_label">Это я Петра заметил</string>
+    <string name="photo5_label">Это я экзамен сдал</string>
+    <string name="photo6_label">Это я в парадной был</string>
+    <string name="photo7_label">Это я в Дубае</string>
+    <string name="photo8_label">Это я в музее</string>
+    <string name="photo9_label">Это я в другом музее</string>
+
+    <string name="author">kachaev</string>
+    <string name="year">2022</string>
+
+
+    <string name="back_btn_text">назад</string>
+    <string name="next_btn_text">далее</string>
+</resources>
